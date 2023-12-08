@@ -1,2 +1,4 @@
 git config --globa user.name "your name"
 git config --globa user.email "your email"
+git list : shows all history
+git branch :list all branches
