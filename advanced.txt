@@ -1,0 +1,2 @@
+git config --globa user.name "your name"
+git config --globa user.email "your email"
